@@ -1,4 +1,4 @@
-# Tidarut Doosaard
+# Tidarut Doo-saard
 
 Computer Engineering Student
 
@@ -47,7 +47,7 @@ Freelance development of custom systems and gameplay functionality for QBCore-ba
 
 Preparing for cooperative education and interested in opportunities related to:
 
-Software Development · IT · Cybersecurity
+Software Development · IT
 
 ## Contact
 
