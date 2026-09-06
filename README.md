@@ -1,8 +1,6 @@
-# Tidarut Doo-saard
-
-Computer Engineering Student
-
-Software Development · Computer Vision 
+<p align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="Tidarut Doosaard Profile Banner">
+</p>
 
 ---
 
