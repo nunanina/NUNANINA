@@ -1,16 +1,54 @@
-## Hi there 👋
+# Tidarut Doosaard
 
-<!--
-**nunanina/NUNANINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student
 
-Here are some ideas to get you started:
+Software Development · Computer Vision 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Fourth-year Computer Engineering student with experience in software development, computer vision, database integration, and system development.
+
+## Tech Stack
+
+**Languages**
+
+Python · JavaScript · Lua · SQL · HTML · CSS
+
+**Computer Vision**
+
+OpenCV · MediaPipe · NumPy
+
+**Tools & Development**
+
+Git · GitHub · MySQL · PyAutoGUI
+
+## Featured Projects
+
+### Gesture Presenter
+
+Real-time hand gesture presentation control system developed using Python, OpenCV, and MediaPipe.
+
+The system recognizes hand gestures and maps them to presentation controls such as cursor movement, mouse clicking, slide navigation, and presentation commands.
+
+**Technologies:** Python · OpenCV · MediaPipe · NumPy · PyAutoGUI
+
+[View Repository](https://github.com/nunanina/gesture-presenter.git)
+
+
+### QBCore Development
+
+Freelance development of custom systems and gameplay functionality for QBCore-based environments.
+
+**Technologies:** Lua · JavaScript · SQL
+
+## Currently
+
+Preparing for cooperative education and interested in opportunities related to:
+
+Software Development · IT · Cybersecurity
+
+## Contact
+
+Email: tidarutdoosaard@gmail.com
